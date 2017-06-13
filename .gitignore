@@ -1,8 +1,21 @@
+#### Following supplied by kore.io ####
+kore
+*.o
+*.swp
+*.swo
+*.module
+*.DSYM
+cert
+obj
+.lvimrc
+
+#### Following was supplied by Github ####
+
+
 # Prerequisites
 *.d
 
 # Object files
-*.o
 *.ko
 *.obj
 *.elf
