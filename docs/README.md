@@ -1,1 +1,2 @@
-[Installing on MacOS](install-macos.md)
+* [Installing on MacOS](install-macos.md)
+* [Your first Kore program](hello.md)
