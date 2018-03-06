@@ -92,3 +92,9 @@ The project is built and a blocking web server is run. Blocking means you'll hav
 https://127.0.0.1:8888
 ```
 
+You'll see the world's plainest web page:
+
+```html
+hello, world.
+```
+
