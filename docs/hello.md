@@ -38,7 +38,7 @@ A project consisting of several directories has been created. It contains things
 cd  hello
 ```
 
-* There is no actual C file yet, but it does in the `src` directory. Create the following C filen named hello.c:
+* There is no actual C file yet. Create the following C file named src/hello.c:
 
 ```c
 /* hello.c */
@@ -47,7 +47,7 @@ cd  hello
 
 static char     *html = "<html><body><p>hello, world.</p></body></html>";
 
-int		page(struct http_request *);
+int page(struct http_request *);
 
 int
 page(struct http_request *req)
@@ -76,7 +76,7 @@ hello built successfully!
 [wrk 1]: worker 1 started (cpu#1)
 [keymgr]: key manager started
 ```
-The project is built and a blocking web server is run. Blocking means you'll have to stop it using Ctrl+C but don't do that right now. Instead:
+The project is built and a blocking web server is run. Blocking means you'll have to stop it using Ctrl+C but don't do that right now. Instead, leave it running and view it in the browser:
 
 * Open a browser and visit this address:
 
