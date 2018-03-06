@@ -1,6 +1,9 @@
 # k
 Notes on kore.io
 
+## Docs
+[Docs](/docs)
+
 ## Installing on MacOS
 
 [Installing on MacOS](docs/install-macosx.md/)
