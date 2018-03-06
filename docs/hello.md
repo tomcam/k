@@ -34,7 +34,9 @@ A project consisting of several directories has been created. It contains things
 
 * Move into that directory
 
-$ cd  hello
+```text
+cd  hello
+```
 
 * There is no actual C file yet, but it does in the `src` directory. Create the following C filen named hello.c:
 
