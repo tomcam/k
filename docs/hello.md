@@ -2,13 +2,13 @@
 
 The first program is always the same: display the message `hello, world` to the user. In the case of Kore that means:
 
-1. Running `kore create` to create a template project
+1. Running `kore create` to create a starter project
 2. Writing a C program that contains an HTML file to be output to the servier
 3. Compile the program
 4. Run the Kore server to display the program
 5. Open a browser to see the results of your handiwork
 
-## Run kore create to generate a template project
+## Run kore create to generate a starter project
 
 A Kore project consists of a number of moving parts. Generate a template project like this:
 
